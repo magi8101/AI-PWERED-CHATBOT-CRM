@@ -2,7 +2,8 @@
 
 **ChatBase Backend** is the engine powering your next-generation **AI-Powered Chatbot CRM**. Designed for modern businesses, it integrates AI-driven chat functionality with robust CRM capabilities to streamline customer interactions and data insights. 🚀
 
-[👉 Explore the Frontend of ChatBase](https://github.com/magi8101/)
+[👉 Explore the Frontend of ChatBase](https://github.com/magi8101/ChatBase-frontend)
+[👉 Explore the dASHBOARD of ChatBase](https://github.com/magi8101/ChatBase-Dashboard)
 
 ---
 
@@ -12,10 +13,10 @@
   Deliver instant, intelligent responses to customers with conversational AI.
 
 - **📊 Streamlit Dashboard for Insights**  
-  Access actionable insights and trends through a user-friendly [Streamlit interface](https://github.com/magi8101/).
+  Access actionable insights and trends through a user-friendly [Streamlit interface](https://github.com/magi8101/ChatBase-Dashboard).
 
 - **🔗 Seamless Frontend Integration**  
-  Works perfectly with the [ChatBase Frontend](https://github.com/magi8101/).
+  Works perfectly with the [ChatBase Frontend](https://github.com/magi8101/ChatBase-frontend).
 
 - **🤖 Automated Workflows**  
   Automate repetitive tasks to save time and enhance efficiency.
@@ -28,7 +29,7 @@ Follow these steps to set up the backend:
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/magi8101/friendly-fiesta.git
+git clone https://github.com/magi8101/ChatBase-Backend.git
 cd friendly-fiesta
 ```
 
@@ -49,7 +50,7 @@ streamlit run dashboard.py
 
 ## 📚 Usage
 
-- **Frontend Integration:** Connect the backend with the [ChatBase Frontend](https://github.com/magi8101/).
+- **Frontend Integration:** Connect the backend with the [ChatBase Frontend](https://github.com/magi8101/ChatBase-frontend).
 - **CRM Customization:** Tailor workflows and features to meet your business needs.
 - **Data Analysis:** Use the Streamlit Dashboard for real-time insights.
 
