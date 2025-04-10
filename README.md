@@ -99,4 +99,4 @@ If you need help, you can:
 
 *Built with ❤️, caffeine, and occasional desperation by the ChatBase Team*
 
-> **Note:** This README, like your patience with AI, is still developing. Unlike your patience, it will actually get better with time.
+> **Note:** This CODE, like your patience with AI, is still developing. Unlike your patience, it will actually get better with time.
