@@ -15,7 +15,7 @@ We maintain and provide security updates for the following versions:
 
 If you discover a security vulnerability in **AI-Powered Chatbot CRM**, we highly encourage you to report it responsibly. Here's how you can do so:
 
-1. 📧 **Contact Us:** Email us at [security@example.com](mailto:security@example.com) with the subject line `Security Vulnerability Report`.
+1. 📧 **Contact Us:** Email us at [security@gmail.com](mailto:sharmamagi0@gmail.com) with the subject line `Security Vulnerability Report`.
 2. 📝 **Provide Details:** Please include as much information as possible:
    - Steps to reproduce the issue.
    - Potential impact of the vulnerability.
