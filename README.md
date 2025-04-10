@@ -3,8 +3,8 @@
 **ChatBase Backend** is the engine powering your next-generation **AI-Powered Chatbot CRM**. Designed for modern businesses, it integrates AI-driven chat functionality with robust CRM capabilities to streamline customer interactions and data insights. 🚀
 ---
 [👉 Explore the Frontend of ChatBase](https://github.com/magi8101/ChatBase-frontend)
----
-[👉 Explore the dASHBOARD of ChatBase](https://github.com/magi8101/ChatBase-Dashboard)
+
+[👉 Explore the DASHBOARD of ChatBase](https://github.com/magi8101/ChatBase-Dashboard)
 
 ---
 
