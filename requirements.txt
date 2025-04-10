@@ -19,3 +19,4 @@ streamlit-aggrid==0.3.3
 streamlit-extras==0.2.7
 streamlit-lottie==0.0.5
 streamlit-elements==0.1.0
+ipinfo==4.4.2
