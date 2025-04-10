@@ -2,7 +2,7 @@
 
 ## 🛡️ Supported Versions
 
-We maintain and provide security updates for the following versions:
+We provide security updates and support for the following versions of **ChatBase Backend**:
 
 | Version | Supported          |
 |---------|--------------------|
@@ -13,31 +13,36 @@ We maintain and provide security updates for the following versions:
 
 ## 🐛 Reporting a Vulnerability
 
-If you discover a security vulnerability in **AI-Powered Chatbot CRM**, we highly encourage you to report it responsibly. Here's how you can do so:
+If you discover a security vulnerability in **ChatBase Backend**, we encourage you to report it responsibly. Here's how you can do so:
 
-1. 📧 **Contact Us:** Email us at [security@gmail.com](mailto:sharmamagi0@gmail.com) with the subject line `Security Vulnerability Report`.
-2. 📝 **Provide Details:** Please include as much information as possible:
+1. 📧 **Contact Us:**  
+   Email us at [sharmamagi0@gmail.com](mailto:sharmamagi0@gmail.com) with the subject line: `Security Vulnerability Report`.
+
+2. 📝 **Provide Detailed Information:**  
+   In your report, include as much information as possible:
    - Steps to reproduce the issue.
-   - Potential impact of the vulnerability.
-   - Any possible fixes or mitigations you've identified.
-3. 🚫 **Do Not Create a Public Issue:** To protect our users, please refrain from publicly disclosing the vulnerability until it has been resolved.
+   - The potential impact of the vulnerability.
+   - Any suggested fixes or mitigations.
+
+3. 🚫 **Avoid Public Disclosure:**  
+   To protect our users, please refrain from publicly disclosing the vulnerability until we have resolved it.
 
 ---
 
 ## 🔒 Security Best Practices
 
-To ensure the security of your setup, we recommend:
+To enhance security, we recommend the following best practices for setup and usage:
 
-- Keeping your system up to date with the latest patches.
-- Using strong passwords and enabling multi-factor authentication (MFA) where possible.
-- Restricting access to sensitive parts of the system using appropriate roles and permissions.
+- Keep your system updated with the latest patches and versions.
+- Use strong passwords and enable multi-factor authentication (MFA) wherever possible.
+- Restrict access to sensitive areas using appropriate roles and permissions.
 
 ---
 
 ## 🗓️ Security Updates
 
-We aim to resolve reported vulnerabilities as quickly as possible. Critical issues are addressed with high priority, and patches will be released as part of our regular update cycle or as a hotfix when necessary.
+We prioritize resolving reported vulnerabilities promptly. Critical issues are addressed on a high-priority basis, and updates or hotfixes will be released as needed.
 
 ---
 
-Thank you for helping us keep **AI-Powered Chatbot CRM** secure! 🙌
+Thank you for helping us keep **ChatBase Backend** secure and reliable! 🙌
